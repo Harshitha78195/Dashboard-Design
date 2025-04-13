@@ -1,4 +1,4 @@
-# Retail Sales Dashboard Analysis 📊
+# Retail Sales Dashboard Analysis 
 
 An interactive Tableau dashboard analyzing retail sales across product categories, gender, and age groups.
 
@@ -13,11 +13,11 @@ This project aims to uncover key sales patterns and customer behaviors using vis
 - Monthly sales trends
 - Age and gender cross-analysis
 
-## 🛠 Tools Used
+## Tools Used
 - Tableau (for interactive dashboards)
 - Dataset with customer demographics and sales data
 
-## 📈 Key Insights
+## Key Insights
 - **Electronics** is the top-performing category with ₹20,220 in sales.
 - **Female customers** drive more purchases overall.
 - Peak sales occur in **May** and **October–December**.
